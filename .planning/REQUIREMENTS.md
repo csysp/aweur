@@ -86,36 +86,36 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| STRC-01 | TBD | Pending |
-| STRC-02 | TBD | Pending |
-| STRC-03 | TBD | Pending |
-| STRC-04 | TBD | Pending |
-| STRC-05 | TBD | Pending |
-| STRC-06 | TBD | Pending |
-| STRC-07 | TBD | Pending |
-| MCAT-01 | TBD | Pending |
-| MCAT-02 | TBD | Pending |
-| MCAT-03 | TBD | Pending |
-| MCAT-04 | TBD | Pending |
-| MCAT-05 | TBD | Pending |
-| MCAT-06 | TBD | Pending |
-| MCAT-07 | TBD | Pending |
-| MCAT-08 | TBD | Pending |
-| MCAT-09 | TBD | Pending |
-| MCAT-10 | TBD | Pending |
-| RSRC-01 | TBD | Pending |
-| RSRC-02 | TBD | Pending |
-| RSRC-03 | TBD | Pending |
-| RSRC-04 | TBD | Pending |
-| QUAL-01 | TBD | Pending |
-| QUAL-02 | TBD | Pending |
-| QUAL-03 | TBD | Pending |
+| STRC-01 | Phase 1 | Pending |
+| STRC-02 | Phase 1 | Pending |
+| STRC-03 | Phase 1 | Pending |
+| STRC-04 | Phase 1 | Pending |
+| STRC-05 | Phase 1 | Pending |
+| STRC-06 | Phase 1 | Pending |
+| STRC-07 | Phase 1 | Pending |
+| MCAT-01 | Phase 2 | Pending |
+| MCAT-02 | Phase 2 | Pending |
+| MCAT-03 | Phase 2 | Pending |
+| MCAT-04 | Phase 2 | Pending |
+| MCAT-05 | Phase 2 | Pending |
+| MCAT-06 | Phase 2 | Pending |
+| MCAT-07 | Phase 2 | Pending |
+| MCAT-08 | Phase 3 | Pending |
+| MCAT-09 | Phase 3 | Pending |
+| MCAT-10 | Phase 3 | Pending |
+| RSRC-01 | Phase 3 | Pending |
+| RSRC-02 | Phase 3 | Pending |
+| RSRC-03 | Phase 3 | Pending |
+| RSRC-04 | Phase 3 | Pending |
+| QUAL-01 | Phase 4 | Pending |
+| QUAL-02 | Phase 4 | Pending |
+| QUAL-03 | Phase 1 | Pending |
 
 **Coverage:**
 - v1 requirements: 24 total
-- Mapped to phases: 0
-- Unmapped: 24
+- Mapped to phases: 24
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-04-19*
-*Last updated: 2026-04-19 after initial definition*
+*Last updated: 2026-04-19 after roadmap creation*
