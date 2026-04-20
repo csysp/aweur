@@ -29,7 +29,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. LICENSE file contains CC0-1.0 text in the repository root
   4. Entry format (`[Name](url) \`TAG\` - Description.`) is documented and demonstrated with at least one example entry
   5. Inclusion criteria section clearly defines what qualifies as "open source" and "Eurorack"
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — README scaffold: minimal lint validation (Assumption A1), full 14-section README with doctoc TOC, Awesome badge, intro, and example entry
+- [ ] 01-02-PLAN.md — License and quality gate: CC0-1.0 LICENSE file, markdownlint config, inclusion criteria prose, full two-linter pass
 
 ### Phase 2: Signal Path Categories
 **Goal**: Users can browse core audio module categories and discover real open source Eurorack projects organized by function
@@ -72,7 +76,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Scaffold and Standards | 0/0 | Not started | - |
+| 1. Scaffold and Standards | 0/2 | Not started | - |
 | 2. Signal Path Categories | 0/0 | Not started | - |
 | 3. Infrastructure and Resources | 0/0 | Not started | - |
 | 4. Content Quality and Final Polish | 0/0 | Not started | - |
