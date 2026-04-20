@@ -4,6 +4,14 @@
 
 Eurorack is the dominant modular synthesizer format, and its open-source community produces an extraordinary range of freely shared hardware designs, firmware, and tools. This list collects those resources, organized by module function, so you can quickly find open oscillators, filters, sequencers, and more — whether you are building your first module or seeking inspiration for your next design. Each entry is tagged with `HW` (hardware design files), `FW` (firmware/embedded code), or `SW` (software tools) to indicate what open-source material is available. Contributions and corrections are welcome.
 
+**What qualifies as open source:** Any public GitHub repository with accessible source files — hardware design files (KiCad/Eagle schematics and PCB layouts), firmware source code, or software source code. A formal OSI-approved license is not required, but source files must be publicly viewable. Projects with only compiled binaries or documentation do not qualify.
+
+**What qualifies as Eurorack:** The module or project must be specifically designed for the Eurorack format: 3U (128.5mm) panel height, power via ±12V Doepfer-compatible header, 3.5mm mono patch jacks. Multi-format projects are included only if Eurorack is the primary or explicitly documented target format.
+
+**Archived and unmaintained projects:** Included with an `[Archived]` label in the description. Hardware designs age well; firmware may have dependency rot, but the design remains valuable.
+
+**Partially open projects:** Included if hardware files (schematics, PCB) are publicly available, even if firmware or software is proprietary. Tagged with only the applicable type tags (e.g., `HW` only if firmware is closed).
+
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
