@@ -11,7 +11,7 @@ Requirements for initial release. Each maps to roadmap phases.
 
 - [x] **STRC-01**: README.md passes awesome-lint validation
 - [x] **STRC-02**: Table of Contents with links to all sections
-- [ ] **STRC-03**: CC0-1.0 LICENSE file in repository root
+- [x] **STRC-03**: CC0-1.0 LICENSE file in repository root
 - [x] **STRC-04**: Consistent entry format: `[Name](url) \`TAG\` - Description.`
 - [x] **STRC-05**: HW/FW/SW type tags on each entry indicating project type
 - [x] **STRC-06**: Alphabetical ordering within each category
@@ -41,7 +41,7 @@ Requirements for initial release. Each maps to roadmap phases.
 
 - [ ] **QUAL-01**: Every entry links to a real, accessible URL
 - [ ] **QUAL-02**: Every entry has a concise, accurate description ending with a period
-- [ ] **QUAL-03**: Inclusion criteria defined (what counts as "open source" and "Eurorack")
+- [x] **QUAL-03**: Inclusion criteria defined (what counts as "open source" and "Eurorack")
 
 ## v2 Requirements
 
@@ -88,7 +88,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 |-------------|-------|--------|
 | STRC-01 | Phase 1 | Complete |
 | STRC-02 | Phase 1 | Complete |
-| STRC-03 | Phase 1 | Pending |
+| STRC-03 | Phase 1 | Complete |
 | STRC-04 | Phase 1 | Complete |
 | STRC-05 | Phase 1 | Complete |
 | STRC-06 | Phase 1 | Complete |
@@ -109,7 +109,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | RSRC-04 | Phase 3 | Pending |
 | QUAL-01 | Phase 4 | Pending |
 | QUAL-02 | Phase 4 | Pending |
-| QUAL-03 | Phase 1 | Pending |
+| QUAL-03 | Phase 1 | Complete |
 
 **Coverage:**
 - v1 requirements: 24 total

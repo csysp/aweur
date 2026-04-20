@@ -3,15 +3,15 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 01-scaffold-and-standards-01-PLAN.md
-last_updated: "2026-04-20T01:20:10.772Z"
+stopped_at: Completed 01-02-PLAN.md
+last_updated: "2026-04-20T01:26:00.002Z"
 last_activity: 2026-04-20
 progress:
   total_phases: 4
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 2
-  completed_plans: 1
-  percent: 50
+  completed_plans: 2
+  percent: 100
 ---
 
 # Project State
@@ -53,6 +53,7 @@ Progress: [░░░░░░░░░░] 0%
 
 *Updated after each plan completion*
 | Phase 01-scaffold-and-standards P01 | 6min | 2 tasks | 2 files |
+| Phase 01-scaffold-and-standards P02 | 3min | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -66,6 +67,8 @@ Recent decisions affecting current work:
 - [Roadmap]: Signal-path categories separated from infrastructure categories for natural content grouping
 - [Phase 01-scaffold-and-standards]: Badge inline in H1 heading (awesome-lint badge rule checks heading.children, not separate paragraph)
 - [Phase 01-scaffold-and-standards]: contributing.md physical file required; empty sections ARE allowed; each entry URL must be unique (double-link rule)
+- [Phase 01-scaffold-and-standards]: Inclusion criteria as inline prose (no heading) — keeps out of TOC, no doctoc re-run needed
+- [Phase 01-scaffold-and-standards]: npx awesome-lint README.md (with filename) is correct invocation — no-arg form fails github rule on unpublished local repos
 
 ### Pending Todos
 
@@ -78,6 +81,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-04-20T01:19:47.807Z
-Stopped at: Completed 01-scaffold-and-standards-01-PLAN.md
+Last session: 2026-04-20T01:25:59.997Z
+Stopped at: Completed 01-02-PLAN.md
 Resume file: None

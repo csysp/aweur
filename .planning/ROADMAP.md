@@ -33,7 +33,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 Plans:
 - [x] 01-01-PLAN.md — README scaffold: minimal lint validation (Assumption A1), full 14-section README with doctoc TOC, Awesome badge, intro, and example entry
-- [ ] 01-02-PLAN.md — License and quality gate: CC0-1.0 LICENSE file, markdownlint config, inclusion criteria prose, full two-linter pass
+- [x] 01-02-PLAN.md — License and quality gate: CC0-1.0 LICENSE file, markdownlint config, inclusion criteria prose, full two-linter pass
 
 ### Phase 2: Signal Path Categories
 **Goal**: Users can browse core audio module categories and discover real open source Eurorack projects organized by function
