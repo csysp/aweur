@@ -9,13 +9,13 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Structure
 
-- [ ] **STRC-01**: README.md passes awesome-lint validation
-- [ ] **STRC-02**: Table of Contents with links to all sections
+- [x] **STRC-01**: README.md passes awesome-lint validation
+- [x] **STRC-02**: Table of Contents with links to all sections
 - [ ] **STRC-03**: CC0-1.0 LICENSE file in repository root
-- [ ] **STRC-04**: Consistent entry format: `[Name](url) \`TAG\` - Description.`
-- [ ] **STRC-05**: HW/FW/SW type tags on each entry indicating project type
-- [ ] **STRC-06**: Alphabetical ordering within each category
-- [ ] **STRC-07**: Introductory paragraph explaining what the list is and how it's organized
+- [x] **STRC-04**: Consistent entry format: `[Name](url) \`TAG\` - Description.`
+- [x] **STRC-05**: HW/FW/SW type tags on each entry indicating project type
+- [x] **STRC-06**: Alphabetical ordering within each category
+- [x] **STRC-07**: Introductory paragraph explaining what the list is and how it's organized
 
 ### Module Categories
 
@@ -86,13 +86,13 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| STRC-01 | Phase 1 | Pending |
-| STRC-02 | Phase 1 | Pending |
+| STRC-01 | Phase 1 | Complete |
+| STRC-02 | Phase 1 | Complete |
 | STRC-03 | Phase 1 | Pending |
-| STRC-04 | Phase 1 | Pending |
-| STRC-05 | Phase 1 | Pending |
-| STRC-06 | Phase 1 | Pending |
-| STRC-07 | Phase 1 | Pending |
+| STRC-04 | Phase 1 | Complete |
+| STRC-05 | Phase 1 | Complete |
+| STRC-06 | Phase 1 | Complete |
+| STRC-07 | Phase 1 | Complete |
 | MCAT-01 | Phase 2 | Pending |
 | MCAT-02 | Phase 2 | Pending |
 | MCAT-03 | Phase 2 | Pending |

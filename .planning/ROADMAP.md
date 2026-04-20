@@ -32,7 +32,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 2 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — README scaffold: minimal lint validation (Assumption A1), full 14-section README with doctoc TOC, Awesome badge, intro, and example entry
+- [x] 01-01-PLAN.md — README scaffold: minimal lint validation (Assumption A1), full 14-section README with doctoc TOC, Awesome badge, intro, and example entry
 - [ ] 01-02-PLAN.md — License and quality gate: CC0-1.0 LICENSE file, markdownlint config, inclusion criteria prose, full two-linter pass
 
 ### Phase 2: Signal Path Categories
@@ -76,7 +76,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Scaffold and Standards | 0/2 | Not started | - |
+| 1. Scaffold and Standards | 1/2 | In Progress|  |
 | 2. Signal Path Categories | 0/0 | Not started | - |
 | 3. Infrastructure and Resources | 0/0 | Not started | - |
 | 4. Content Quality and Final Polish | 0/0 | Not started | - |
