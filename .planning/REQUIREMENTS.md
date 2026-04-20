@@ -19,13 +19,13 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Module Categories
 
-- [ ] **MCAT-01**: Oscillators / Sound Sources category with 2-5 seed entries
-- [ ] **MCAT-02**: Filters category with 2-5 seed entries
-- [ ] **MCAT-03**: Amplifiers / VCAs category with 2-5 seed entries
-- [ ] **MCAT-04**: Envelopes / Function Generators category with 2-5 seed entries
-- [ ] **MCAT-05**: Sequencers category with 2-5 seed entries
-- [ ] **MCAT-06**: Modulation Sources (LFOs, etc.) category with 2-5 seed entries
-- [ ] **MCAT-07**: Effects / Signal Processing category with 2-5 seed entries
+- [x] **MCAT-01**: Oscillators / Sound Sources category with 2-5 seed entries
+- [x] **MCAT-02**: Filters category with 2-5 seed entries
+- [x] **MCAT-03**: Amplifiers / VCAs category with 2-5 seed entries
+- [x] **MCAT-04**: Envelopes / Function Generators category with 2-5 seed entries
+- [x] **MCAT-05**: Sequencers category with 2-5 seed entries
+- [x] **MCAT-06**: Modulation Sources (LFOs, etc.) category with 2-5 seed entries
+- [x] **MCAT-07**: Effects / Signal Processing category with 2-5 seed entries
 - [ ] **MCAT-08**: Utilities (Mixers, Multiples, Attenuators) category with 2-5 seed entries
 - [ ] **MCAT-09**: MIDI / USB / Digital Interfaces category with 2-5 seed entries
 - [ ] **MCAT-10**: Power Supplies / Cases category with 2-5 seed entries
@@ -93,13 +93,13 @@ Which phases cover which requirements. Updated during roadmap creation.
 | STRC-05 | Phase 1 | Complete |
 | STRC-06 | Phase 1 | Complete |
 | STRC-07 | Phase 1 | Complete |
-| MCAT-01 | Phase 2 | Pending |
-| MCAT-02 | Phase 2 | Pending |
-| MCAT-03 | Phase 2 | Pending |
-| MCAT-04 | Phase 2 | Pending |
-| MCAT-05 | Phase 2 | Pending |
-| MCAT-06 | Phase 2 | Pending |
-| MCAT-07 | Phase 2 | Pending |
+| MCAT-01 | Phase 2 | Complete |
+| MCAT-02 | Phase 2 | Complete |
+| MCAT-03 | Phase 2 | Complete |
+| MCAT-04 | Phase 2 | Complete |
+| MCAT-05 | Phase 2 | Complete |
+| MCAT-06 | Phase 2 | Complete |
+| MCAT-07 | Phase 2 | Complete |
 | MCAT-08 | Phase 3 | Pending |
 | MCAT-09 | Phase 3 | Pending |
 | MCAT-10 | Phase 3 | Pending |
