@@ -36,30 +36,45 @@ Eurorack is the dominant modular synthesizer format, and its open-source communi
 
 ## Oscillators
 
+- [Clatters Sibilla](https://github.com/Clatters/Sibilla) `FW` - Digital stereo oscillator for Eurorack built on a DSP platform, with firmware source and resources for alternative firmware development.
 - [Mutable Instruments Braids](https://github.com/pichenettes/eurorack/tree/master/braids) `HW` `FW` - Digital macro-oscillator with 16 synthesis algorithms. Part of the Mutable Instruments open-source collection.
+- [Mutable Instruments Plaits](https://github.com/pichenettes/eurorack/tree/master/plaits) `HW` `FW` - Successor macro-oscillator with 16 synthesis models spanning digital, physical modeling, and analog-style generation.
+- [Mutable Instruments Rings](https://github.com/pichenettes/eurorack/tree/master/rings) `HW` `FW` - Physical modeling resonator oscillator based on modal synthesis techniques.
+- [Zlosynth Achordion](https://github.com/zlosynth/achordion) `HW` `FW` - Chord-crafting quantizing wavetable oscillator for Eurorack with open hardware and firmware.
 
 ## Filters
 
-- [Zlosynth Achordion](https://github.com/zlosynth/achordion) `HW` `FW` - Chord quantizer and harmonic oscillator module for Eurorack.
+- [BleepSound MS20 VCF](https://github.com/BleepSound/ms20-vcf-simple) `HW` - MS20-style voltage-controlled filter for Eurorack with full KiCad schematics and PCB layout.
+- [Mutable Instruments Ripples](https://github.com/pichenettes/eurorack/tree/master/ripples) `HW` `FW` - Resonant multimode filter with 24dB/oct low-pass, band-pass, and high-pass outputs.
+- [Mutable Instruments Shelves](https://github.com/pichenettes/eurorack/tree/master/shelves) `HW` `FW` - Four-band equalizer filter module with voltage-controlled frequency and gain.
 
 ## VCAs
 
-- [Winterbloom Sol](https://github.com/wntrblm/Sol) `HW` `FW` - Open source MIDI-to-CV converter module built on CircuitPython.
+- [BleepSound Basic VCA](https://github.com/BleepSound/basic_vca) `HW` - Open hardware voltage-controlled amplifier for Eurorack with full KiCad schematics and PCB layout.
+- [Mutable Instruments Veils](https://github.com/pichenettes/eurorack/tree/master/veils) `HW` `FW` - Quad VCA with switchable linear and exponential response curves.
 
 ## Envelopes / Function Generators
 
-- [Allen Synthesis modules](https://github.com/Allen-Synthesis) `HW` `FW` - Collection of open source Eurorack module designs with complete hardware and firmware.
+- [BleepSound Basic ADSR](https://github.com/BleepSound/basic_adsr) `HW` - Open hardware ADSR envelope generator for Eurorack with full KiCad schematics and PCB layout.
+- [Mutable Instruments Peaks](https://github.com/pichenettes/eurorack/tree/master/peaks) `HW` `FW` - Dual function generator providing envelopes, LFOs, and tap tempo sequencing with a shared control interface.
+- [Mutable Instruments Stages](https://github.com/pichenettes/eurorack/tree/master/stages) `HW` `FW` - Multistage envelope generator with chainable segment groups for complex shapes.
 
 ## Sequencers
 
 - [Monome Teletype](https://github.com/monome/teletype) `HW` `FW` - Algorithmic scene-based sequencer with a command language interpreter.
+- [Pangrus BPD](https://github.com/pangrus/bpd) `HW` `FW` - Beat pattern device sequencer module for Eurorack with open hardware and firmware.
+- [TruthTable](https://github.com/attoparsec/TruthTable) `HW` - Eurorack logic and boolean truth table sequencer module with open hardware design files.
 
 ## Modulation
 
-- [Erica Synths DIY](https://github.com/erica-synths/diy-eurorack) `HW` `FW` - Open source hardware and firmware for Erica Synths DIY Eurorack modules.
+- [Erica Synths DIY](https://github.com/erica-synths/diy-eurorack) `HW` `FW` - Open source hardware and firmware for Erica Synths DIY Eurorack modules including LFOs and CV generators.
+- [Mutable Instruments Tides](https://github.com/pichenettes/eurorack/tree/master/tides) `HW` `FW` - Tidal modulator functioning as macro-oscillator, LFO, and function generator with four simultaneous output modes.
+- [Rheslip Eurorack Quad LFO](https://github.com/rheslip/Eurorack-Quad-LFO-Module) `HW` `FW` - Four-channel low frequency oscillator module with independent rate controls and open hardware design.
 
 ## Effects
 
+- [Emeb RP2040 Audio](https://github.com/emeb/RP2040_Audio) `HW` `FW` - Eurorack stereo audio effects module based on the Raspberry Pi RP2040 microcontroller with open hardware and firmware.
+- [Kxmx Bluemchen](https://github.com/recursinging/kxmx_bluemchen) `HW` `FW` - Eurorack effects module built on the Electrosmith Daisy Seed DSP platform with open hardware and firmware.
 - [Modularev Nemesis](https://github.com/modularev/Nemesis) `HW` `FW` - Open source stereo reverb module for Eurorack with multiple algorithms.
 
 ## Utilities
